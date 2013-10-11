@@ -7,7 +7,7 @@
 title:  Poverty, space and Russia - exploring the use of spatial analysis in Russian Federation
 author: Markus Kainu
 date: October 2013
-affiliation: University of turku
+affiliation: University of Turku
 bibliography: bibtex.bib
 lang: english
 tags: [spatial analysis, Russia, census, poverty]
@@ -22,7 +22,6 @@ tags: [spatial analysis, Russia, census, poverty]
 
 # Introduction to the topic
 
-Something here @stewart_measuring_2002
 
 Regional economic disparities in European Union have received substantial scholarly attention in recent years. Focus has been either on descriptive analysis and methodology [@stewart_measuring_2002;@jesuit2008subnational;@heidenreich_patterns_2008;@beckfield2009remapping;@longford2010measures] or on links between regional disparities and economic growth. [@perugini2008income;@ezcurra_does_2009;@peters_regional_2010]. In terms of inequality studies are showing similar figures: among the countries of current European Union (EU) the between-country disparities have been falling over the last 20 years, while the regional inequalities within most of the countries have increased, especially within European post-socialist countries. As a result most of the economic inequalities today in enlarged EU are already inequalities within nations. 
 
